@@ -18,7 +18,7 @@
 
 ## Data types
 
-<img src="../img/types.jpg" alt="Data Types" width="400"/>
+<img src="../img/types.jpg" alt="Data Types" width="480"/>
 
 ### Int
 

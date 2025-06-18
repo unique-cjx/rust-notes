@@ -7,3 +7,4 @@
 
 ## 📚 Directions
 - 🧩 [Basic Syntax](section/basic_syntax.md) 
+- 🚀 [Ownership](section/ownership.md)
